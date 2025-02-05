@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pascal_triangle",
+            "request": "launch",
+            "mainClass": "pascal_triangle",
+            "console": "internalConsole",
+            "projectName": "Hands-on_Lecture_2-1_74394e94"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrix",
+            "request": "launch",
+            "mainClass": "spiral_matrix",
+            "console": "internalConsole",
+            "projectName": "Hands-on_Lecture_2-1_74394e94"
+        }
+    ]
+}
